@@ -159,3 +159,144 @@ git add --all
 git add --all .
 git commit -m "My Django Girls app, first commit"
 sudo reboot
+git status
+git add --all
+git add --all .
+git commit -m "My Django Girls app, first commit"
+git remote add origin https://github.com/cse-cdr/my-first-blog.git
+git clone https://github.com/<cse-cdr>/my-first-blog.git
+man tree
+ls
+cd djangogirls/
+ls
+man tree
+ls
+tree
+tree blog
+sudo apt-get tree
+sudo apt-get install tree
+ls
+tree blog
+ifconfig
+ls
+history
+python manage.py runserver 0.0.0.0:8000
+exit
+sudo reboot
+sqlite
+ls
+cd djangogirls/
+l
+sls
+ls
+vi manage.py 
+cd blog/
+ls
+vi models.py
+ls
+cd ..
+ls
+cd mysite/
+ls
+vi urls.py
+ls
+vi blog/urls.py
+ls -al
+sudo vi urls.py
+sudo vi blog/urls.py
+ls
+cd ..
+ls
+cd blog
+ls
+find ./ urls.py
+tree ./
+cd ..
+cd mysite/
+ls
+touch blog/urls.py
+touch "blog/urls.py
+ls
+touch "blog/urls.py"
+touch 'blog/urls.py'
+ls
+cd ..
+ls
+cd blog
+touch blog/urls.py
+touch urls.py
+ls
+vi urls.py
+history
+python manage.py runserver 0.0.0.0:8000
+cd ..
+ls
+c dmysite
+cd mysite
+ls
+python manage.py runserver 0.0.0.0:8000
+cd ..
+ls
+python manage.py runserver 0.0.0.0:8000
+ls
+cd mysite/
+ls
+vi urls.py
+cd .
+python manage.py runserver 0.0.0.0:8000
+cd ..
+ls
+python manage.py runserver 0.0.0.0:8000
+cd mysite/
+ls
+vi urls.py
+ls
+cd ..
+ls
+vi blog/
+cd blog/
+l
+ls
+vi urls.py
+ls
+vi views.py
+cd ..
+python manage.py runserver 0.0.0.0:8000
+ls
+cd blog/
+vi views.py
+cd ..
+python manage.py runserver 0.0.0.0:8000
+exit
+ls
+cd djangogirls/
+ls
+cd blog
+ls
+tree ./
+ls
+mkdir templates
+ls
+cd templates/
+mkdir blog
+ls
+cd blog
+touch post_list.html
+ls
+cd ..
+ls
+history
+python manage.py runserver 0.0.0.0:8000
+ls
+cd djangogirls/
+ls
+cd blog/
+ls
+cd templates/
+ls
+cd blog/
+ls
+vi post_list.html 
+sudo apt-get update
+sudo apt-get upgrade
+sudo reboot
